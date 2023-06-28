@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Olá sejam bem vindos, me chamo Pedro </h1>
+<h3 align="center">Futuro - Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro01235&label=Profile%20views&color=0e75b6&style=flat" alt="pedro01235" /> </p>
 
