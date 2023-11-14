@@ -1,6 +1,6 @@
 
 <h1 align="center">Welcome</h1>
-<h2 align="rigth">Olá, me chamo Pedro e estou estudando para me tornar um futuro Full Stack Developer</h3>
+<h2 align="rigth">Olá, eu sou o Pedro e esse é meu GitHub.</h3>
 
 ##
 
